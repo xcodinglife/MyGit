@@ -12,6 +12,8 @@ public class Temp {
         System.out.println("----神奇了------");
         System.out.println("----------");
 
+        System.out.println("啦啦啦啦");
+
     }
 
 
