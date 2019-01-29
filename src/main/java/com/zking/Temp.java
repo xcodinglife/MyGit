@@ -8,6 +8,7 @@ public class Temp {
         System.out.println("你是猪");
         System.out.println("重要的事说3遍");
 
+        System.out.println("----------");
 
     }
 
