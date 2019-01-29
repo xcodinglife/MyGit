@@ -9,6 +9,8 @@ public class Temp {
         System.out.println("重要的事说3遍");
 
         System.out.println("----------");
+        System.out.println("----神奇了------");
+        System.out.println("----------");
 
     }
 
