@@ -12,7 +12,7 @@ public class Temp {
         System.out.println("----神奇了------");
         System.out.println("----------");
 
-        System.out.println("啦啦啦啦");
+        System.out.println("我是你姐姐，哈哈哈哈");
 
     }
 
